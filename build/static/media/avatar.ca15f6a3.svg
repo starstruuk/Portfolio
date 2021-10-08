@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 217 237" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Website">
+        <g id="mf-avatar" transform="matrix(1,0,0,1,-10,-15)">
+            <g id="Circle" transform="matrix(1,0,0,1,10.8,36)">
+                <circle id="Circle-Background" cx="108" cy="108" r="108" style="fill:rgb(151,45,194);"/>
+                <clipPath id="_clip1">
+                    <circle id="Circle-Background1" serif:id="Circle-Background" cx="108" cy="108" r="108"/>
+                </clipPath>
+                <g clip-path="url(#_clip1)">
+                    <g id="🖍-Circle-Color">
+                        <rect id="🖍Color" x="0" y="0" width="216.445" height="216" style="fill:rgb(129,55,114);"/>
+                    </g>
+                </g>
+            </g>
+            <g id="Avataaar">
+                <g id="Body" transform="matrix(1,0,0,1,28.8,32.4)">
+                    <g>
+                        <path id="path-5" d="M90,0C117.835,-0 140.4,22.565 140.4,50.4L140.401,55.949C145.508,56.807 149.4,61.249 149.4,66.6L149.4,79.2C149.4,84.647 145.367,89.152 140.125,89.893C138.265,107.718 127.114,122.78 111.601,130.149L111.6,146.7L115.2,146.7C150.988,146.7 180,175.712 180,211.5L180,219.6L0,219.6L0,211.5C-0,175.712 29.012,146.7 64.8,146.7L68.4,146.7L68.4,130.15C52.886,122.78 41.735,107.718 39.875,89.893C34.633,89.152 30.6,84.647 30.6,79.2L30.6,66.6C30.6,61.249 34.492,56.806 39.6,55.949L39.6,50.4C39.6,22.565 62.165,0 90,0Z" style="fill:rgb(208,198,172);"/>
+                        <clipPath id="_clip2">
+                            <path id="path-51" serif:id="path-5" d="M90,0C117.835,-0 140.4,22.565 140.4,50.4L140.401,55.949C145.508,56.807 149.4,61.249 149.4,66.6L149.4,79.2C149.4,84.647 145.367,89.152 140.125,89.893C138.265,107.718 127.114,122.78 111.601,130.149L111.6,146.7L115.2,146.7C150.988,146.7 180,175.712 180,211.5L180,219.6L0,219.6L0,211.5C-0,175.712 29.012,146.7 64.8,146.7L68.4,146.7L68.4,130.15C52.886,122.78 41.735,107.718 39.875,89.893C34.633,89.152 30.6,84.647 30.6,79.2L30.6,66.6C30.6,61.249 34.492,56.806 39.6,55.949L39.6,50.4C39.6,22.565 62.165,0 90,0Z"/>
+                        </clipPath>
+                        <g clip-path="url(#_clip2)">
+                            <g transform="matrix(1,0,0,1,-28.8,0)">
+                                <g id="Skin-👶🏻-05-Pale" serif:id="Skin/👶🏻-05-Pale">
+                                    <g id="Color">
+                                        <rect x="0" y="0" width="238.384" height="220.355" style="fill:rgb(203,129,77);"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Neck-Shadow" transform="matrix(1,-0,-0,1,-18.8,-17.4)">
+                            <use xlink:href="#_Image3" x="58.316" y="94.453" width="102.047px" height="58.847px" transform="matrix(0.99075,0,0,0.997411,0,0)"/>
+                        </g>
+                    </g>
+                </g>
+                <g id="Clothing-Hoodie" serif:id="Clothing/Hoodie" transform="matrix(1,0,0,1,0,153)">
+                    <path id="Hoodie" d="M140.401,11.764C156.691,13.587 169.2,18.597 169.2,31.569L169.194,31.18C192.467,41.01 208.8,64.047 208.8,90.9L208.8,99L28.8,99L28.8,90.9C28.8,64.047 45.133,41.01 68.406,31.18C68.653,18.496 81.073,13.568 97.2,11.764L97.2,28.8C97.2,40.729 106.871,50.4 118.8,50.4C130.729,50.4 140.4,40.729 140.4,28.8L140.401,11.764Z" style="fill:rgb(183,193,219);"/>
+                    <clipPath id="_clip4">
+                        <path id="Hoodie1" serif:id="Hoodie" d="M140.401,11.764C156.691,13.587 169.2,18.597 169.2,31.569L169.194,31.18C192.467,41.01 208.8,64.047 208.8,90.9L208.8,99L28.8,99L28.8,90.9C28.8,64.047 45.133,41.01 68.406,31.18C68.653,18.496 81.073,13.568 97.2,11.764L97.2,28.8C97.2,40.729 106.871,50.4 118.8,50.4C130.729,50.4 140.4,40.729 140.4,28.8L140.401,11.764Z"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip4)">
+                        <g id="Color-Palette-Slate" serif:id="Color/Palette/Slate">
+                            <rect id="🖍Color1" serif:id="🖍Color" x="0" y="0" width="238.491" height="99" style="fill:rgb(184,38,1);stroke:rgb(6,47,79);stroke-width:1px;"/>
+                        </g>
+                    </g>
+                    <path id="Straps" d="M91.8,55.565L91.8,99L85.5,99L85.499,52.335C87.483,53.514 89.592,54.594 91.8,55.565ZM152.101,52.334L152.1,88.65C152.1,90.39 150.69,91.8 148.95,91.8C147.21,91.8 145.8,90.39 145.8,88.65L145.801,55.565C148.009,54.594 150.118,53.513 152.101,52.334Z" style="fill:rgb(244,244,244);"/>
+                    <g id="Shadow" transform="matrix(0.897449,0,0,0.897449,12.183,3.72523)">
+                        <path d="M155.733,11.451C169.28,14.013 178.65,19.118 178.65,29.077C178.65,46.818 148.916,61.2 118.8,61.2C88.684,61.2 58.95,46.818 58.95,29.077C58.95,19.118 68.32,14.013 81.867,11.451C73.689,14.466 68.4,19.534 68.4,27.969C68.4,46.322 93.439,61.2 118.8,61.2C144.161,61.2 169.2,46.322 169.2,27.969C169.2,19.71 164.13,14.679 156.241,11.642L155.733,11.451Z" style="fill-opacity:0.16;"/>
+                        <clipPath id="_clip5">
+                            <path d="M155.733,11.451C169.28,14.013 178.65,19.118 178.65,29.077C178.65,46.818 148.916,61.2 118.8,61.2C88.684,61.2 58.95,46.818 58.95,29.077C58.95,19.118 68.32,14.013 81.867,11.451C73.689,14.466 68.4,19.534 68.4,27.969C68.4,46.322 93.439,61.2 118.8,61.2C144.161,61.2 169.2,46.322 169.2,27.969C169.2,19.71 164.13,14.679 156.241,11.642L155.733,11.451Z"/>
+                        </clipPath>
+                        <g clip-path="url(#_clip5)">
+                            <g id="Color-Palette-Slate1" serif:id="Color/Palette/Slate">
+                                <rect id="🖍Color2" serif:id="🖍Color" x="0" y="0" width="238.491" height="99" style="fill:rgb(133,38,1);"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Face" transform="matrix(1,0,0,1,68.4,73.8)">
+                    <g id="Mouth-Smile" serif:id="Mouth/Smile" transform="matrix(1,0,0,1,1.8,46.8)">
+                        <path id="Mouth" d="M31.672,21.977C35.054,25.156 39.912,28.787 48.6,28.8C57.424,28.813 65.075,24.231 65.603,21.084C65.833,19.705 64.733,19.582 63.547,21.454C62.653,22.863 53.957,26.213 48.992,26.466C42.969,26.773 33.326,22.207 32.986,21.454C32.495,20.367 30.985,21.331 31.672,21.977Z" style="fill-opacity:0.7;"/>
+                    </g>
+                    <g id="Nose-Default" serif:id="Nose/Default" transform="matrix(1,0,0,1,25.2,36)">
+                        <g id="Nose" transform="matrix(1.05726,0,0,0.548275,-1.44297,6.71098)">
+                            <path d="M17.866,2.187C17.866,6.163 18.952,13.927 24.916,13.927C30.881,13.927 30.974,6.163 30.974,2.187" style="fill:rgb(74,49,44);fill-opacity:0.25;"/>
+                        </g>
+                        <g transform="matrix(0.992533,0,0,1.19525,-85.0911,-117.701)">
+                            <ellipse cx="136.513" cy="90.27" rx="4.077" ry="5.698" style="fill:rgb(20,20,20);"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(0.795434,0,0,0.795434,4.97096,10.8822)">
+                        <g id="Eyes-Happy-😁" serif:id="Eyes/Happy-😁">
+                            <path id="Squint" d="M14.544,20.203C16.206,16.784 19.948,14.4 24.298,14.4C28.632,14.4 32.363,16.767 34.034,20.166C34.53,21.176 33.824,22.003 33.112,21.39C30.906,19.494 27.773,18.309 24.298,18.309C20.931,18.309 17.886,19.421 15.694,21.214C14.892,21.87 14.058,21.203 14.544,20.203Z" style="fill:rgb(20,20,20);"/>
+                        </g>
+                    </g>
+                    <g id="Eyebrow-Natural-Default-Natural" serif:id="Eyebrow/Natural/Default-Natural">
+                        <g id="Eyebrow" transform="matrix(0.996195,0.0871557,-0.0871557,0.996195,1.03375,-4.43828)">
+                            <path d="M23.435,5.589C18.25,6.285 10.164,10.805 10.84,16.036C10.862,16.207 11.121,16.261 11.233,16.118C13.471,13.248 25.797,6.039 37.075,9.913C37.626,10.102 38.032,9.399 37.639,9.027C34.269,5.845 28.08,4.961 23.435,5.589" style="fill:rgb(20,20,20);"/>
+                        </g>
+                        <g id="Eyebrow1" serif:id="Eyebrow" transform="matrix(-0.996195,0.0871557,0.0871557,0.996195,153.564,-17.2921)">
+                            <path d="M76.535,5.589C71.35,6.285 63.264,10.805 63.94,16.036C63.962,16.207 64.236,16.271 64.333,16.118C68.887,8.887 82.299,8.92 89.724,15.041C90.174,15.411 90.682,14.526 90.288,14.155C86.918,10.973 81.18,4.961 76.535,5.589" style="fill:rgb(20,20,20);"/>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,43,15)">
+                    <g id="Top">
+                        <g>
+                            <g>
+                                <path id="Short-Hair" d="M118.135,20.928C115.651,18.39 112.767,16.236 109.962,14.076C109.343,13.6 108.715,13.135 108.109,12.641C107.972,12.528 106.563,11.519 106.394,11.148C105.988,10.254 106.224,10.95 106.28,9.884C106.35,8.535 109.1,4.727 107.048,3.854C106.146,3.47 104.536,4.492 103.67,4.83C101.977,5.49 100.263,6.054 98.512,6.54C99.351,4.869 100.95,1.524 97.944,2.419C95.603,3.116 93.421,4.91 91.068,5.753C91.847,4.477 94.96,0.523 92.147,0.302C91.271,0.233 88.724,1.875 87.782,2.226C84.959,3.275 82.075,3.953 79.111,4.487C69.033,6.304 57.248,5.786 47.923,10.374C40.735,13.911 33.636,19.4 29.484,26.389C25.481,33.125 23.984,40.498 23.146,48.217C22.532,53.882 22.482,59.738 22.769,65.424C22.863,67.287 23.073,75.874 25.779,73.273C27.127,71.978 27.117,66.745 27.457,64.974C28.133,61.451 28.783,57.911 29.91,54.5C31.895,48.49 34.238,45.687 39.184,41.547C42.359,38.89 44.588,35.3 47.625,32.62C48.99,31.416 47.949,31.542 50.143,31.7C51.616,31.806 53.097,31.846 54.574,31.885C57.99,31.974 61.412,31.951 64.829,31.963C71.711,31.988 78.561,32.085 85.437,31.725C88.492,31.565 91.556,31.478 94.603,31.195C96.306,31.038 99.326,29.947 100.728,30.78C102.01,31.543 103.342,34.034 104.263,35.054C106.438,37.464 109.032,39.305 111.576,41.282C116.881,45.403 119.559,46.98 121.17,53.421C122.775,59.838 122.325,65.791 124.312,72.106C124.662,73.217 125.586,75.13 126.726,73.415C126.937,73.096 126.883,71.345 126.883,70.337C126.883,66.27 127.913,63.218 127.9,59.123C127.849,46.674 127.447,30.442 118.135,20.928Z" style="fill:rgb(31,49,64);"/>
+                                <clipPath id="_clip6">
+                                    <path id="Short-Hair1" serif:id="Short-Hair" d="M118.135,20.928C115.651,18.39 112.767,16.236 109.962,14.076C109.343,13.6 108.715,13.135 108.109,12.641C107.972,12.528 106.563,11.519 106.394,11.148C105.988,10.254 106.224,10.95 106.28,9.884C106.35,8.535 109.1,4.727 107.048,3.854C106.146,3.47 104.536,4.492 103.67,4.83C101.977,5.49 100.263,6.054 98.512,6.54C99.351,4.869 100.95,1.524 97.944,2.419C95.603,3.116 93.421,4.91 91.068,5.753C91.847,4.477 94.96,0.523 92.147,0.302C91.271,0.233 88.724,1.875 87.782,2.226C84.959,3.275 82.075,3.953 79.111,4.487C69.033,6.304 57.248,5.786 47.923,10.374C40.735,13.911 33.636,19.4 29.484,26.389C25.481,33.125 23.984,40.498 23.146,48.217C22.532,53.882 22.482,59.738 22.769,65.424C22.863,67.287 23.073,75.874 25.779,73.273C27.127,71.978 27.117,66.745 27.457,64.974C28.133,61.451 28.783,57.911 29.91,54.5C31.895,48.49 34.238,45.687 39.184,41.547C42.359,38.89 44.588,35.3 47.625,32.62C48.99,31.416 47.949,31.542 50.143,31.7C51.616,31.806 53.097,31.846 54.574,31.885C57.99,31.974 61.412,31.951 64.829,31.963C71.711,31.988 78.561,32.085 85.437,31.725C88.492,31.565 91.556,31.478 94.603,31.195C96.306,31.038 99.326,29.947 100.728,30.78C102.01,31.543 103.342,34.034 104.263,35.054C106.438,37.464 109.032,39.305 111.576,41.282C116.881,45.403 119.559,46.98 121.17,53.421C122.775,59.838 122.325,65.791 124.312,72.106C124.662,73.217 125.586,75.13 126.726,73.415C126.937,73.096 126.883,71.345 126.883,70.337C126.883,66.27 127.913,63.218 127.9,59.123C127.849,46.674 127.447,30.442 118.135,20.928Z"/>
+                                </clipPath>
+                                <g clip-path="url(#_clip6)">
+                                    <g transform="matrix(1,0,0,1,-43.1,-15)">
+                                        <rect x="0" y="0" width="239.107" height="252.406" style="fill:rgb(26,26,26);"/>
+                                    </g>
+                                </g>
+                                <g transform="matrix(1,0,0,1,-43.1,-15)">
+                                    <g id="Color-Hair-Brown-Dark" serif:id="Color/Hair/Brown-Dark">
+                                        <g id="Color1" serif:id="Color">
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1.41092,0,0,1.41092,-36.096,-36.0512)">
+            <path d="M97.836,79.959C97.842,79.124 97.509,78.323 96.912,77.739C96.316,77.155 95.509,76.838 94.674,76.86C89.126,77.009 77.805,77.313 72.857,77.446C71.518,77.482 70.452,78.578 70.452,79.917C70.452,83.206 70.452,89.106 70.452,92.672C70.452,94.318 71.786,95.653 73.432,95.653C77.703,95.653 85.672,95.653 91.317,95.653C94.866,95.653 97.75,92.789 97.774,89.24C97.795,86.113 97.819,82.49 97.836,79.959Z" style="fill:none;stroke:black;stroke-width:1.67px;stroke-linecap:round;stroke-miterlimit:1.5;"/>
+        </g>
+        <path d="M64.352,84.455L57.303,73.36L62.26,85.534C62.558,86.112 63.268,86.339 63.846,86.041C64.423,85.743 64.65,85.032 64.352,84.455Z"/>
+        <g transform="matrix(-1.41092,0,0,1.41092,251.931,-36.0512)">
+            <path d="M97.73,79.633C97.73,78.903 97.436,78.205 96.914,77.695C96.392,77.185 95.686,76.908 94.957,76.925C89.723,77.05 78.447,77.32 73.218,77.445C71.68,77.482 70.452,78.739 70.452,80.278C70.452,83.528 70.452,88.912 70.452,92.37C70.452,93.241 70.798,94.076 71.413,94.691C72.029,95.307 72.864,95.653 73.735,95.653L91.274,95.653C94.84,95.653 97.73,92.762 97.73,89.196C97.73,85.932 97.73,82.142 97.73,79.633Z" style="fill:none;stroke:black;stroke-width:1.67px;stroke-linecap:round;stroke-miterlimit:1.5;"/>
+        </g>
+        <path d="M153.534,85.608L159.624,73.36L151.524,84.381C151.185,84.936 151.361,85.661 151.916,86C152.471,86.338 153.196,86.162 153.534,85.608Z"/>
+        <path d="M101.794,84.995L114.041,84.995" style="fill:none;stroke:black;stroke-width:2.35px;stroke-linecap:round;stroke-miterlimit:1.5;"/>
+    </g>
+    <defs>
+        <image id="_Image3" width="103px" height="59px" xlink:href="data:image/png;base64,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"/>
+    </defs>
+</svg>
