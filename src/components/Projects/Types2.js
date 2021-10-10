@@ -7,7 +7,7 @@ function Types2() {
       options={{
         delay: 200,
         strings: [
-          "RESUME"
+          "Works"
         ],
         autoStart: true,
         loop: true, 
